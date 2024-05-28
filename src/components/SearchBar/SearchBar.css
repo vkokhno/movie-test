@@ -1,0 +1,13 @@
+.search-bar {
+  flex-grow: 1;
+  display: flex;
+  gap: 20px;
+}
+
+.search-bar input {
+  flex-grow: 1;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}

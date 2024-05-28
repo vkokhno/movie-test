@@ -1,0 +1,12 @@
+.pagination {
+  margin: 20px;
+}
+
+.pagination span {
+  margin: 0 5px;
+  cursor: pointer;
+}
+
+.pagination .active {
+  font-weight: bold;
+}
